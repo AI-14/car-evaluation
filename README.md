@@ -10,4 +10,15 @@
    can be deployed on heroku for real-world use. Hope you like it!
 
 ## Screenshots Of The App
-![](Pic1.png)
+![](Pic.png)
+
+## Installation And Usage
+1. Installation
+   - Download/clone this repository and create a proper project folder where you will extract this repo's contents. Then open terminal (make sure you are in the project's directory).
+   - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
+   - Then run the following command ````pip install -r requirements.txt````. With this, all the dependencies will be installed in your virtual environment. 
+> **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
+
+2. Usage
+   - Open your project folder and go to the terminal and activate your virtual environment. Then type ````streamlit run src\main.py```` and the app will open in your web 
+   browser. Now you can interact with it or play with the code and add your own features. Also you can play around with jupyter notebook if you wish.
