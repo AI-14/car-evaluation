@@ -10,7 +10,7 @@
    can be deployed on heroku for real-world use. Hope you like it!
 
 ## Screenshots Of The App
-![](Pic.png)
+<img src="Pic.png" width="600" height="600"/>
 
 ## Installation And Usage
 1. Installation
