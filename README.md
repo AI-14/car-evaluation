@@ -6,7 +6,7 @@
   ![Streamlit](https://img.shields.io/badge/-Streamlit-f0806c?style=flat)
   
 ## Description
-   A machine learning project for evaluating car acceptability based on various features. Streamlit is used for real-time predictions. This application
+   An end to end machine learning project for evaluating car acceptability based on various features. Streamlit is used for real-time predictions. This application
    can be deployed on heroku for real-world use. Hope you like it!
 
 ## Screenshots Of The App
