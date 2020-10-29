@@ -12,6 +12,14 @@
 ## Screenshots Of The App
 <img src="Pic.png" width="600" height="600"/>
 
+## Steps Taken In This Project
+- Data Collection
+- EDA & Visualization
+- Model selection & building it.
+- Evaluation of the models.
+- Saving the models.
+- Application program for real time usage.
+
 ## Installation And Usage
 1. Installation
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
