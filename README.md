@@ -10,17 +10,31 @@
    can be deployed on heroku for real-world use. Hope you like it!
 
 ## Screenshots Of The App
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 <img src="Pic.png" width="600" height="600"/>
+</details>
 
 ## Steps Taken In This Project
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 - Data Collection
 - EDA & Visualization
 - Model selection & building it.
 - Evaluation of the models.
 - Saving the models.
 - Application program for real time usage.
+</details>
 
 ## Installation And Usage
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 1. Installation
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
    - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
@@ -30,3 +44,4 @@
 2. Usage
    - Open your project folder and go to the terminal and activate your virtual environment. Then type ````streamlit run src\main.py```` and the app will open in your web 
    browser. Now you can interact with it or play with the code and add your own features. Also you can play around with jupyter notebook if you wish.
+</details>
