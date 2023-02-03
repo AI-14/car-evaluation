@@ -18,8 +18,8 @@ An end to end machine learning project for evaluating acceptability of a car bas
 <img src="Pic.png" width="600" height="600"/>
 
 ## Steps taken in this project <a name="project-steps"></a>
-- Data Collection
-- EDA & Visualization
+- Data collection
+- EDA & visualization
 - Model selection & building it
 - Evaluation of the models
 - Saving the models
@@ -28,8 +28,8 @@ An end to end machine learning project for evaluating acceptability of a car bas
 ## Installation And Usage <a name="installation-usage"></a>
 - Requirements:
    - `python >= 3.6`
-- `git clone https://github.com/AI-14/credit-card-fraud-detection.git` - clones the repository
-- `cd credit-card-fraud-detection`
+- `git clone https://github.com/AI-14/car-evaluation.git` - clones the repository
+- `cd car-evaluation`
 - `py -m venv yourVenvName` - creates a virtual environment
 - `yourVenvName\Scripts\activate.bat` - activates the virtual environment
 - `pip install -r requirements.txt` - installs all modules
