@@ -5,7 +5,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-f0806c?style=flat)
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
 3. [Steps taken in this project](#project-steps)
