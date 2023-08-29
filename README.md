@@ -1,9 +1,4 @@
 # Car Evaluation
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566be8?style=flat)
-![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
-![Streamlit](https://img.shields.io/badge/-Streamlit-f0806c?style=flat)
 
 ## Table of contents
 1. [Description](#description)
